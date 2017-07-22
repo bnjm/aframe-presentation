@@ -1,10 +1,10 @@
-<!-- .slide: data-background="media/img/aframe.jpg" -->
+<!-- .slide: data-background="media/im/aframe.jpg" -->
 
 <div class="talk-title">
   <h1>A-Frame</h1>
-  <p>A web framework for building VR experiences</p>
+  <p>Real World A-Frame 🏡</p>
   <p class="talk-info">
-    @andgokevin | Mozilla VR | **aframe.io**
+    @hyper_text | Archilogic | **aframe.io**
   </p>
 </div>
 

@@ -23,7 +23,7 @@ html:-moz-full-screen-ancestor {
 }
 
 .reveal {
-  font-family: "Fira Sans", Helvetica, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, Helvetica, sans-serif;
   font-size: 38px;
   font-weight: normal;
   color: #333;
@@ -50,7 +50,7 @@ html:-moz-full-screen-ancestor {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #333;
-  font-family: "Ubuntu", Helvetica, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, Helvetica, sans-serif;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: normal;
@@ -323,7 +323,7 @@ html:-moz-full-screen-ancestor {
 [data-background-video] li,
 [data-background-video] p {
   color: #FAFAFA;
-  text-shadow: 1px 1px 2px #333;
+  /*text-shadow: 1px 1px 2px #333;*/
 }
 
 [data-background].dark-text h1,
