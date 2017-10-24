@@ -1,8 +1,7 @@
 <!-- .slide: data-background="media/im/aframe.jpg" -->
 
 <div class="talk-title">
-  <h1>A-Frame</h1>
-  <p>Real World A-Frame 🏡</p>
+  <h1>WebVR and A-Frame</h1>
   <p class="talk-info">
     @hyper_text | Archilogic | **aframe.io**
   </p>
